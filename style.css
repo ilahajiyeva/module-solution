@@ -167,9 +167,7 @@ h1 {
     .col-md-12 {
         width: 100%;
     }
-    .sushi {
-        margin: auto;
-    }
+    
 }
 
 @media (max-width: 767px)  {
