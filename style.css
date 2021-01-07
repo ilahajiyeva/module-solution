@@ -10,7 +10,7 @@ h1 {
 
 .box {
     position: relative;
-    border: 2px solid black;
+    border: 1px solid black;
     background-color: silver;
     margin: 25px;
 }
@@ -28,8 +28,8 @@ h1 {
     font-size: 1em;
     text-align: center;
     float: right;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
 }
 #beef {
     width: 100px;
@@ -38,8 +38,8 @@ h1 {
     font-size: 1em;
     text-align: center;
     float: right;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 #sushi {
@@ -49,8 +49,8 @@ h1 {
     font-size: 1em;
     text-align: center;
     float: right;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 /*large*/
